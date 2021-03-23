@@ -19,3 +19,6 @@ The language has a stack and 6 instructions:
 `dup` # push a copy of what's at the top of the stack back onto the stack.
 
 `#` # any line starting with it is a comment
+
+Run
+Works with Python 3.9, run `stackinterpreter.py` and you should see hello, world!
