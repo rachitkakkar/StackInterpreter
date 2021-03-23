@@ -1,5 +1,5 @@
 # Stack Interpreter
-This is a simple and probably useless interpreted langauge created for internal ufor fun. So far an interpreter in python has been created. The langauge has error handling built in just to make it slightlier easier to code with (due to its limited dictionary).
+This is a simple and probably useless interpreted language created for fun. So far an interpreter in python has been created. The language has error handling built in just to make it slighter easier to code with (due to its limited dictionary).
 
 # Specification
 The language has a stack and 6 instructions:
